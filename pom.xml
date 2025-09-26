@@ -68,8 +68,8 @@
                 <!-- Configurazione plugin per intercettare l'output -->
                 <configuration>
                     <jmx>true</jmx>
-                    <output>tcpserver</output>
-                    <address>localhost</address>
+<!--                    <output>tcpserver</output>-->
+<!--                    <address>localhost</address>-->
                 </configuration>
                 <executions>
                     <execution>
